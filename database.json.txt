@@ -117,7 +117,7 @@
         {
             "id_sert": 211002,
             "date_sert": "26/10/2021",
-            "id_cli": 1",
+            "id_cli": 1,
             "id_user": 2,
             "id_gr_psas": "13212asda23",
             "envr_cond": {
@@ -139,7 +139,7 @@
         {
             "id_sert": 211004,
             "date_sert": "26/10/2021",
-            "id_cli": 1",
+            "id_cli": 1,
             "id_user": 2,
             "id_gr_psas": "13212asda23",
             "envr_cond": {
@@ -161,7 +161,7 @@
         {
             "id_sert": 211005,
             "date_sert": "26/10/2021",
-            "id_cli": 1",
+            "id_cli": 1,
             "id_user": 2,
             "id_gr_psas": "13212asda23",
             "envr_cond": {
@@ -183,7 +183,7 @@
         {
             "id_sert": 211007,
             "date_sert": "26/10/2021",
-            "id_cli": 1",
+            "id_cli": 1,
             "id_user": 2,
             "id_gr_psas": "13212asda23",
             "envr_cond": {
