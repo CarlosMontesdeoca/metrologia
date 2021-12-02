@@ -1,0 +1,205 @@
+{
+    "users": [
+        {
+            "id": 1,
+            "name": "Carlos Montesdeoca",
+            "user": "carlos-mg",
+            "pass": "123123"
+        },
+        {
+            "id": 2,
+            "name": "Danny Vasconez",
+            "user": "devasconez",
+            "pass": "123123"
+        },
+        {
+            "id": 3,
+            "name": "Willson Diaz",
+            "user": "willson",
+            "pass": "123123"   
+        }
+    ],
+
+    "clients": [
+        {
+            "id": 1,
+            "name": "Precitrol S.A.",
+            "type": "M",
+            "address": "Floresta",
+            "phone": "0987654321",
+            "city": "Quito",
+            "ruc": "123456789001",
+            "contacts": [
+                {
+                    "name_cont": "Carlos Montesdeoca",
+                    "email_cont": "carlos_mg@outlook.com",
+                    "phone_cont": "0978885465",
+                    "rol_cont": "gerente"
+                },
+                {
+                    "name_cont": "Josswelin PC.",
+                    "email_cont": "carlos_mg@outlook.com",
+                    "phone_cont": "0978885465",
+                    "rol_cont": "marketing"
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "name": "Precitrol S.A.",
+            "type": "S",
+            "address": "X------X",
+            "phone": "09------",
+            "city": "Guayaquil",
+            "ruc": "123456789007",
+            "contacts": [
+                {
+                    "name_cont": "Carlos Montesdeoca",
+                    "email_cont": "carlos_mg@outlook.com",
+                    "phone_cont": "0978885465",
+                    "rol_cont": "gerente"
+                },
+                {
+                    "name_cont": "Josswelin PC.",
+                    "email_cont": "carlos_mg@outlook.com",
+                    "phone_cont": "0978885465",
+                    "rol_cont": "marketing"
+                }
+            ]
+        },
+        {
+            "id": 223,
+            "name": "Precitrol S.A.",
+            "type": "S",
+            "address": "X------X",
+            "phone": "09------",
+            "city": "Guayaquil",
+            "ruc": "123456789007",
+            "contacts": [
+                {
+                    "name_cont": "Carlos Montesdeoca",
+                    "email_cont": "carlos_mg@outlook.com",
+                    "phone_cont": "0978885465",
+                    "rol_cont": "gerente"
+                },
+                {
+                    "name_cont": "Josswelin PC.",
+                    "email_cont": "carlos_mg@outlook.com",
+                    "phone_cont": "0978885465",
+                    "rol_cont": "marketing"
+                },
+                {
+                    "name_cont": "Carlos Montesdeoca",
+                    "email_cont": "carlos_mg@outlook.com",
+                    "phone_cont": "0978885465",
+                    "rol_cont": "gerente"
+                },
+                {
+                    "name_cont": "Josswelin PC.",
+                    "email_cont": "carlos_mg@outlook.com",
+                    "phone_cont": "0978885465",
+                    "rol_cont": "marketing"
+                }
+            ]
+        },
+        {
+            "id": 312313,
+            "name": "Espinoza Paez",
+            "type": "M",
+            "address": "X---------X",
+            "phone": "09--------",
+            "city": "Manta",
+            "ruc": "123456789007",
+        }
+    ],
+
+    "certificates": [
+        {
+            "id_sert": 211002,
+            "date_sert": "26/10/2021",
+            "id_cli": 1",
+            "id_user": 2,
+            "id_gr_psas": "13212asda23",
+            "envr_cond": {
+                "data-logr": "E-03-02",
+                "T_init": 18.7,
+                "T_fin": 18.8,
+                "H_init": 66.6,
+                "H_fin": 66.8
+            },
+            "inspect_vis": {
+                "state": true,
+                "ubicate": true,
+                "observation": "los equipos no estan teniendo un control de inventario"
+            },
+            "next_cal": "27/10/2001",
+            "acepted": true,
+            "name_adep": "Danny Vazcones"
+        },
+        {
+            "id_sert": 211004,
+            "date_sert": "26/10/2021",
+            "id_cli": 1",
+            "id_user": 2,
+            "id_gr_psas": "13212asda23",
+            "envr_cond": {
+                "data-logr": "E-03-02",
+                "T_init": 18.7,
+                "T_fin": 18.8,
+                "H_init": 66.6,
+                "H_fin": 66.8
+            },
+            "inspect_vis": {
+                "state": true,
+                "ubicate": true,
+                "observation": "los equipos no estan teniendo un control de inventario"
+            },
+            "next_cal": "27/10/2001",
+            "acepted": true,
+            "name_adep": "Danny Vazcones"
+        },
+        {
+            "id_sert": 211005,
+            "date_sert": "26/10/2021",
+            "id_cli": 1",
+            "id_user": 2,
+            "id_gr_psas": "13212asda23",
+            "envr_cond": {
+                "data-logr": "E-03-02",
+                "T_init": 18.7,
+                "T_fin": 18.8,
+                "H_init": 66.6,
+                "H_fin": 66.8
+            },
+            "inspect_vis": {
+                "state": true,
+                "ubicate": true,
+                "observation": "los equipos no estan teniendo un control de inventario"
+            },
+            "next_cal": "27/10/2001",
+            "acepted": true,
+            "name_adep": "Danny Vazcones"
+        },
+        {
+            "id_sert": 211007,
+            "date_sert": "26/10/2021",
+            "id_cli": 1",
+            "id_user": 2,
+            "id_gr_psas": "13212asda23",
+            "envr_cond": {
+                "data-logr": "E-03-02",
+                "T_init": 18.7,
+                "T_fin": 18.8,
+                "H_init": 66.6,
+                "H_fin": 66.8
+            },
+            "inspect_vis": {
+                "state": true,
+                "ubicate": true,
+                "observation": "los equipos no estan teniendo un control de inventario"
+            },
+            "next_cal": "27/10/2001",
+            "acepted": false
+        },        
+    ]
+}
